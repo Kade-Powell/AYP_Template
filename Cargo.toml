@@ -1,0 +1,11 @@
+[package]
+name = "ayp_template"
+version = "0.1.0"
+edition = "2021"
+
+[workspace]
+
+members = [
+    "frontend",
+    "backend"
+]
